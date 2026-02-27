@@ -1,4 +1,4 @@
-# informatica
+# informática
 Atividades realizadas na disciplina de informática do CST em logística
 ## Apresentação em equipe utilizando softwares de design gráfico
 Trabalho executado via canva: com elementos 3D 
