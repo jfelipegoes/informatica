@@ -18,7 +18,4 @@ Aula - Dados Abertos e geração de Gráficos
 <img width="1384" height="358" alt="image" src="https://github.com/user-attachments/assets/571f7759-236f-4370-a2bd-47496d719a20" />
 
 Atividade - Organização de tabela e criação de gráficos
-
-https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
-
-
+      https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
