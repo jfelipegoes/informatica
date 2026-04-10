@@ -26,3 +26,4 @@ Aula - Planilhas e dados Abertos de SP
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26618117/multas_pagas.xlsx)
 
 <img width="1026" height="311" alt="image" src="https://github.com/user-attachments/assets/d327dfdc-41bd-4f59-89aa-e0d715719116" />
+<img width="649" height="41" alt="image" src="https://github.com/user-attachments/assets/9291c22d-3070-48d4-9e77-54135e6e1b91" />
