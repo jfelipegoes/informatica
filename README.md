@@ -20,5 +20,7 @@ Aula - Dados Abertos e geração de Gráficos
 Atividade - Organização de tabela e criação de gráficos
       https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQgfUR4?e=kHhKJc
 
-Aula - Dados Abertos de sp      
+Aula - Planilhas e dados Abertos de SP      
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26618117/multas_pagas.xlsx)
+
+<img width="1026" height="311" alt="image" src="https://github.com/user-attachments/assets/d327dfdc-41bd-4f59-89aa-e0d715719116" />
