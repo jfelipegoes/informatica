@@ -1,11 +1,9 @@
 # informática
-## Aula 1 - Atividades realizadas na disciplina de informática do CST em logística
-Apresentação em equipe utilizando softwares de design gráfico
-Trabalho executado via canva: com elementos 3D 
+## 19/02 Aula 1 - Apresentação em equipe utilizando softwares de design gráfico. Trabalho executado via canva: com elementos 3D 
 <img width="1192" height="669" alt="image" src="https://github.com/user-attachments/assets/1dece453-994e-4597-b390-36d769d92a00" />
 https://www.canva.com/design/DAHB0HgcKdU/uht_tKpM_lbuw43VcUgKHw/view?utm_content=DAHB0HgcKdU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2edf209d5
 
-## Aula 2 - Dados Abertos e uso do Excel
+##  Aula 2 - Dados Abertos e uso do Excel
 https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQC3VNlGXYqgRrhq-AKhnOVmAaqV_ksRSyl00az-MRcRmcU?e=xDkCKJ
 <img width="834" height="528" alt="image" src="https://github.com/user-attachments/assets/16216cda-cfc8-4ce0-ac9d-eb4f8cb20165" />
 
@@ -18,6 +16,6 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQCGT5vpr2aTQq0bK_6w4V4LARo4qNlnYsDKckeYHQg
 <img width="1044" height="353" alt="image" src="https://github.com/user-attachments/assets/c3ac43ba-4f47-4a7c-8299-1641a0257adc" />
 
 ## Aula 5 - Planilhas e dados Abertos de SP      
-[multas_pagas.xlsx](https://github.com/user-attachments/files/26618117/multas_pagas.xlsx)
+https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAcrFE4HIRWTopcgs9awsIQAZC0Fpbydw7mdw58awuT9Us?e=o9tZpx
 <img width="1026" height="311" alt="image" src="https://github.com/user-attachments/assets/d327dfdc-41bd-4f59-89aa-e0d715719116" />
 <img width="649" height="41" alt="image" src="https://github.com/user-attachments/assets/9291c22d-3070-48d4-9e77-54135e6e1b91" />
