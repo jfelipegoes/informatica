@@ -41,3 +41,7 @@ Pergunta 4
 Pergunta 5
 <img width="902" height="264" alt="image" src="https://github.com/user-attachments/assets/a762e797-5d6f-4c44-9d8b-d6b69d00d696" />
 
+## 16/04 - Certificado de curso Aprenda Mais: Criando Trabalhos Acadêmicos com Ferramentas Digitais
+[Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4025413.pdf](https://github.com/user-attachments/files/26794246/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4025413.pdf)
+<img width="843" height="574" alt="image" src="https://github.com/user-attachments/assets/f63b84af-4a2a-419d-82b5-c935e3c3cb1a" />
+
