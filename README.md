@@ -45,3 +45,7 @@ Pergunta 5
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4025413.pdf](https://github.com/user-attachments/files/26794246/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4025413.pdf)
 <img width="843" height="574" alt="image" src="https://github.com/user-attachments/assets/f63b84af-4a2a-419d-82b5-c935e3c3cb1a" />
 
+## 23/04 Aula 7 - Tratamento de dados aberto do estado de SP no Power Bi
+[sinistros_03-2026.xlsx](https://github.com/user-attachments/files/27283886/sinistros_03-2026.xlsx)
+
+<img width="1126" height="626" alt="image" src="https://github.com/user-attachments/assets/49f42226-e6d1-4176-801b-31b22471b1ea" />
