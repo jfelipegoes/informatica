@@ -49,3 +49,7 @@ Pergunta 5
 https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_cps_sp_gov_br/IQBLaHrk10kFTZQIVRptTz1yAVF5N3CPx8ebRn0jKsKdGtE?e=9yOXb0
 
 <img width="1126" height="626" alt="image" src="https://github.com/user-attachments/assets/49f42226-e6d1-4176-801b-31b22471b1ea" />
+
+## Atividade 2 - Escolher um conjunto de dados, e fazer no mínimo 3 vizualizações no power Bi
+
+<img width="863" height="478" alt="image" src="https://github.com/user-attachments/assets/f63375cf-6b0f-4228-a9fb-57c22b37dca2" />
