@@ -53,3 +53,6 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 ## Atividade 2 - Tratamento de dados abertos do estado de SP no Power Bi com 3 tipos de vizualizações sobre emissão de CNH
 
 <img width="863" height="478" alt="image" src="https://github.com/user-attachments/assets/f63375cf-6b0f-4228-a9fb-57c22b37dca2" />
+
+## Aula - 8 Modelagem de dados , tratamento de dados e fórmulas DAX no Power Bi
+<img width="1307" height="704" alt="image" src="https://github.com/user-attachments/assets/97e64b53-6d7a-40c0-bc64-e131af966a35" />
