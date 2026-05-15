@@ -56,3 +56,9 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 
 ## 07/04 Aula - 8 Modelagem de dados , tratamento de dados e fórmulas DAX no Power Bi
 <img width="1307" height="704" alt="image" src="https://github.com/user-attachments/assets/97e64b53-6d7a-40c0-bc64-e131af966a35" />
+
+## 15/05 - Aula 10 - Regressão linear simples usando conjunto de dados
+<img width="1753" height="685" alt="image" src="https://github.com/user-attachments/assets/f8d651b9-f81c-4107-97b8-1b6db1d84485" />
+[winequality-red.xlsx](https://github.com/user-attachments/files/27824117/winequality-red.xlsx)
+
+
