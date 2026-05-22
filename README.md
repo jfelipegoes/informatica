@@ -62,6 +62,7 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_c
 <img width="687" height="423" alt="image" src="https://github.com/user-attachments/assets/4590ffeb-146c-4811-a37b-844dc5542cdb" />
 
 ## Regressão Linear Python.
+<img width="913" height="546" alt="image" src="https://github.com/user-attachments/assets/6783c13f-b190-4f4d-a788-2c84c7374148" />
 
 
 ## 15/05 - Aula 10 - Regressão linear simples usando conjunto de dados
