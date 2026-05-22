@@ -61,7 +61,7 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_cps_sp_gov_br/Documents/Ice%20Cream%20Sales%20and%20Temperature%201.xlsx?d=w838710ce1e9249fa996325b3d0e08e0a&csf=1&web=1&e=UfcCcC
 <img width="687" height="423" alt="image" src="https://github.com/user-attachments/assets/4590ffeb-146c-4811-a37b-844dc5542cdb" />
 
-Regressão Linear Python.
+## Regressão Linear Python.
 
 
 ## 15/05 - Aula 10 - Regressão linear simples usando conjunto de dados
