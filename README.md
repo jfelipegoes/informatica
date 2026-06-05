@@ -78,3 +78,6 @@ https://centropaulasouza-my.sharepoint.com/:x:/g/personal/joao_oliveira71_aluno_
 
 https://github.com/user-attachments/assets/37b3f2c5-86b8-4947-88c1-7aeaeea83784
 
+## 06/06 Certtificado de curso da escola do trabalhador:  Modelar dados no Power BI
+[Certificate_765301_100_403y9.pdf](https://github.com/user-attachments/files/28652566/Certificate_765301_100_403y9.pdf)
+<img width="838" height="580" alt="image" src="https://github.com/user-attachments/assets/3db9a82d-cb74-48a4-9e39-182aafe54ffc" />
